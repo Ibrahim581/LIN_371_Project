@@ -21,7 +21,7 @@ Describe how to set up the environment:
 
 ```bash
 # Clone the repository
-git clone (https://github.com/Ibrahim581/LIN_371_Project.git)
+git clone https://github.com/Ibrahim581/LIN_371_Project.git
 
 # Navigate into the project directory
 cd LIN_371_Project
