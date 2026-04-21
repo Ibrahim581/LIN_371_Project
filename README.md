@@ -23,7 +23,7 @@ Describe how to set up the environment:
 git clone (https://github.com/Ibrahim581/LIN_371_Project.git)
 
 # Navigate into the project directory
-cd <your-project-folder>
+cd LIN_371_Project
 
 # (Optional) Create a virtual environment
 python -m venv venv
