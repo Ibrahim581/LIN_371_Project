@@ -9,6 +9,7 @@ As college students, mental health is a crucial issue that could be addressed in
 
 ## Project Structure
 - Data/ `mental_heath_unbanlanced.csv` # Dataset used in the analysis
+- LICENSE
 - `Mental_Health_Analysis.ipynb` # Main Jupyter Notebook
 - README.md # Project Documentation
 - `requirements.txt` # Contains dependencies/libraries used in analysis
@@ -17,7 +18,7 @@ As college students, mental health is a crucial issue that could be addressed in
 ---
 
 ## Installation
-Describe how to set up the environment:
+How to set up the environment:
 
 ```bash
 # Clone the repository
@@ -33,3 +34,32 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
+```
+
+## Dependencies
+- pandas
+- nltk
+- matplotlib
+- seaborn
+- wordcloud
+- scikit-learn
+- xgboost
+
+## Usage
+After installing the dependencies, launch Jupyter Notebook and open `Mental_Health_Analysis.ipynb`
+
+## Features
+- Data cleaning and preprocessing of text data
+- Data Exploration/Visualization of word distributions and emotional trends
+- Emotion classification using machine learning techniques
+
+## Results/Insights
+- Identified common emotional patterns
+- Built multiple classifiers (Logistic Regression, Naive Bayes, XG-Boost)
+- Evaluated performance through Accuracy, Precision, Recall and ROC curves
+
+## License
+
+This project is licensed under the MIT License.
+
+See the `LICENSE` file for more details.
