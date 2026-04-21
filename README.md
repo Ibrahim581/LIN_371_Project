@@ -11,6 +11,7 @@ As college students, mental health is a crucial issue that could be addressed in
 - Data/ `mental_heath_unbanlanced.csv` # Dataset used in the analysis
 - `Mental_Health_Analysis.ipynb` # Main Jupyter Notebook
 - README.md # Project Documentation
+- `requirements.txt` # Contains dependencies/libraries used in analysis
 
 
 ---
