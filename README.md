@@ -1,7 +1,7 @@
 # Mental Health Analysis
 
 ## Introduction
-As college students, mental health is a crucial issue that could be addressed ina better manner. This project aims to:
+As college students, we believe mental health is a crucial issue that could be addressed in a better manner. This project aims to:
 - Understand how certain words/phrases correspond to different mental health conditions
 - Develop an emotion text classifier which takes in raw data, preprocesses it and predicts the emotion expressed by the text
 
