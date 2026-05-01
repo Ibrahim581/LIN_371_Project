@@ -10,6 +10,7 @@ As college students, we believe mental health is a crucial issue that could be a
 ## Project Structure
 - Data/ `mental_heath_unbanlanced.csv` # Dataset used in the analysis
 - LICENSE
+- `LIN_371_Report` # Written report
 - `Mental_Health_Analysis.ipynb` # Main Jupyter Notebook
 - README.md # Project Documentation
 - `requirements.txt` # Contains dependencies/libraries used in analysis
